@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("sec",["Function"],[["SecondInitializationPass",,[["VEvil.Core.SceneManagement.SceneSystem",,,,0,"File:Runtime/Core/SceneManagement/SceneSystem.cs:VEvil.Core.SceneManagement.SceneSystem.SecondInitializationPass","CSharpClass:VEvil.Core.SceneManagement.SceneSystem:SecondInitializationPass"]]]]);

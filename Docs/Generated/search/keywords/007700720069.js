@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("wri",["Function"],[["WriteOnFile",,[["VEvil.Core.Logger",,,,0,"File:Runtime/Core/Logger.cs:VEvil.Core.Logger.WriteOnFile","CSharpClass:VEvil.Core.Logger:WriteOnFile"]]]]);

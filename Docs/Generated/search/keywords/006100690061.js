@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("aia",["Struct"],[["AIAgentSettings",,[["VEvil.AI",,,,0,"File:Runtime/AI/AIAgentSettings.cs:VEvil.AI.AIAgentSettings","CSharpClass:VEvil.AI.AIAgentSettings"]]]]);

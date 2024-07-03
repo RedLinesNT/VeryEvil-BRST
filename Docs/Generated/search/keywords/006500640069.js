@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("edi",["Class"],[["EditorScriptableObjectsCreator",,[["VEvil.Editor",,,,0,"File:Runtime/Core/Editor/EditorScriptableObjectsCreator.cs:VEvil.Editor.EditorScriptableObjectsCreator","CSharpClass:VEvil.Editor.EditorScriptableObjectsCreator"]]]]);

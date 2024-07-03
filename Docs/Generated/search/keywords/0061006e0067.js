@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("ang",["Property"],[["AngularSpeed",,[["VEvil.AI.AIAgentSettings",,,,0,"File:Runtime/AI/AIAgentSettings.cs:VEvil.AI.AIAgentSettings.AngularSpeed","CSharpClass:VEvil.AI.AIAgentSettings:AngularSpeed"]]]]);

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("tem",["Variable"],[["temporaryTarget",,[["VEvil.AI.AAIAgentEntity",,,,0,"File:Runtime/AI/AAIAgentEntity.cs:VEvil.AI.AAIAgentEntity.temporaryTarget","CSharpClass:VEvil.AI.AAIAgentEntity:temporaryTarget"]]]]);

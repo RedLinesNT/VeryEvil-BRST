@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("dir",["Class"],[["DirectionalPanelInteractable",,[["VEvil.GameLogic.Interactable.Panel",,,,0,"File:Runtime/GameLogic/Interactable/Panel/DirectionalPanelInteractable.cs:VEvil.GameLogic.Interactable.Panel.DirectionalPanelInteractable","CSharpClass:VEvil.GameLogic.Interactable.Panel.DirectionalPanelInteractable"]]]]);

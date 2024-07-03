@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("esc",["Enumeration"],[["ESceneCategory",,[["VEvil.Core.SceneManagement",,,,0,"File:Runtime/Core/SceneManagement/SceneCategory.cs:VEvil.Core.SceneManagement.ESceneCategory"]]]]);

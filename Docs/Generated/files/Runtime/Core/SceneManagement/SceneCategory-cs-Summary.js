@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:Runtime/Core/SceneManagement/SceneCategory.cs","SceneCategory.cs");NDSummary.OnSummaryLoaded("File:Runtime/Core/SceneManagement/SceneCategory.cs",[["C#","CSharp"]],[["Enums","Enumeration"],["Groups","Group"]],[[271,0,1,"Types","VEvil.Core.SceneManagement.Types"],[272,0,0,"ESceneCategory","VEvil.Core.SceneManagement.ESceneCategory"]]);

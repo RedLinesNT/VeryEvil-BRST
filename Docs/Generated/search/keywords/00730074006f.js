@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("sto",["Property"],[["StoppingDistance",,[["VEvil.AI.AIAgentSettings",,,,0,"File:Runtime/AI/AIAgentSettings.cs:VEvil.AI.AIAgentSettings.StoppingDistance","CSharpClass:VEvil.AI.AIAgentSettings:StoppingDistance"]]]]);

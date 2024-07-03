@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("poi",["Variable"],[["points",,[["VEvil.AI.AIPathPointsContainer",,,,0,"File:Runtime/AI/Paths/AIPathPointsContainer.cs:VEvil.AI.AIPathPointsContainer.points","CSharpClass:VEvil.AI.AIPathPointsContainer:points"]]]]);

@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:Runtime/Dummies/GameLogic/DummyDamageable.cs","DummyDamageable.cs");NDSummary.OnSummaryLoaded("File:Runtime/Dummies/GameLogic/DummyDamageable.cs",[["C#","CSharp"]],[["Classes","Class"]],[[327,0,0,"<span class=\"Qualifier\">VEvil.&#8203;Dummies.&#8203;GameLogic.</span>&#8203;DummyDamageable","VEvil.Dummies.GameLogic.DummyDamageable"]]);

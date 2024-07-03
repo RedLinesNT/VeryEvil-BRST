@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("col",["Variable"],[["collider",,[["VEvil.AI.AIPathCheckpoint",,,,0,"File:Runtime/AI/Paths/AIPathCheckpoint.cs:VEvil.AI.AIPathCheckpoint.collider","CSharpClass:VEvil.AI.AIPathCheckpoint:collider"]]]]);

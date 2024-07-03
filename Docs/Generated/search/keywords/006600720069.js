@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("fri",["Property"],[["FriendlyFire",,[["VEvil.GameLogic.Interactable.TNT.TNTInteractableSettings",,,,0,"File:Runtime/GameLogic/Interactable/TNT/TNTInteractableSettings.cs:VEvil.GameLogic.Interactable.TNT.TNTInteractableSettings.FriendlyFire","CSharpClass:VEvil.GameLogic.Interactable.TNT.TNTInteractableSettings:FriendlyFire"]]]]);

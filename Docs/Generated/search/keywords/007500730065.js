@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("use",["Struct"],[["UserLoadout",,[["VEvil.GameLogic.Player",,,,0,"File:Runtime/GameLogic/Player/UserUnitLoadout.cs:VEvil.GameLogic.Player.UserLoadout","CSharpClass:VEvil.GameLogic.Player.UserLoadout"]]]]);

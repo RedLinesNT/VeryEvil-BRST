@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("det",["Property"],[["DetectionCooldownMS",,[["VEvil.GameLogic.Attack.AttackSettings",,,,0,"File:Runtime/GameLogic/Attack/AttackSettings.cs:VEvil.GameLogic.Attack.AttackSettings.DetectionCooldownMS","CSharpClass:VEvil.GameLogic.Attack.AttackSettings:DetectionCooldownMS"]]]]);

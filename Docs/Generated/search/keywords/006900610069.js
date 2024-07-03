@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("iai",["Interface"],[["IAIPathCheckpointCallbackReceiver",,[["VEvil.AI",,,,0,"File:Runtime/AI/Paths/IAIPathCheckpointCallbackReceiver.cs:VEvil.AI.IAIPathCheckpointCallbackReceiver","CSharpClass:VEvil.AI.IAIPathCheckpointCallbackReceiver"]]]]);

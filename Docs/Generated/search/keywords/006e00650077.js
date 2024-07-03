@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("new",["Variable"],[["newPosition",,[["VEvil.GameLogic.Cameras.Gameplay.GameCamera",,,,0,"File:Runtime/GameLogic/Cameras/Gameplay/GameCamera.cs:VEvil.GameLogic.Cameras.Gameplay.GameCamera.newPosition","CSharpClass:VEvil.GameLogic.Cameras.Gameplay.GameCamera:newPosition"]]]]);

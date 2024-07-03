@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("scr",["Property"],[["ScreenEdgeSize",,[["VEvil.GameLogic.Cameras.Gameplay.GameCameraSettings",,,,0,"File:Runtime/GameLogic/Cameras/Gameplay/GameCameraSettings.cs:VEvil.GameLogic.Cameras.Gameplay.GameCameraSettings.ScreenEdgeSize","CSharpClass:VEvil.GameLogic.Cameras.Gameplay.GameCameraSettings:ScreenEdgeSize"]]]]);

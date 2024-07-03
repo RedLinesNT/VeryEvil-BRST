@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b82c9fde7bc4da08abd3cac964b72b5, type: 3}
+  m_Name: Golem
+  m_EditorClassIdentifier: 
+  <InternalName>k__BackingField: Golem
+  <Icon>k__BackingField: {fileID: 21300000, guid: ba8566546c377904c84c87809eff5ec8, type: 3}
+  <Settings>k__BackingField:
+    <AISettings>k__BackingField:
+      <BaseOffset>k__BackingField: 1
+      <Speed>k__BackingField: 1.5
+      <AngularSpeed>k__BackingField: 150
+      <Acceleration>k__BackingField: 7
+      <StoppingDistance>k__BackingField: 0
+      <AutoBraking>k__BackingField: 1
+      <Radius>k__BackingField: 1
+      <Height>k__BackingField: 2
+      <Quality>k__BackingField: 2
+    <AttackSettings>k__BackingField:
+      <SeeRange>k__BackingField: 7
+      <DetectionCooldownMS>k__BackingField: 500
+      <AttackRange>k__BackingField: 4
+      <AttackDamage>k__BackingField: 10
+      <AttackCooldownMS>k__BackingField: 1500
+    <HealthPreset>k__BackingField:
+      <MaxHealth>k__BackingField: 50
+      <DefaultHealth>k__BackingField: 50
+  <ManaCost>k__BackingField: 2
+  <PrefabVariants>k__BackingField:
+  - <TargetTeam>k__BackingField: 0
+    <Prefab>k__BackingField: {fileID: 4521607055975154280, guid: f9d5501fa731df645a616de3cf8103b2, type: 3}
+  - <TargetTeam>k__BackingField: 1
+    <Prefab>k__BackingField: {fileID: 4521607055975154280, guid: c69253a1fd0f2b04ea97d9e4c5cd9d92, type: 3}

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("err",["Constant"],[["ERROR_COLOR",,[["VEvil.Core.Logger",,,,0,"File:Runtime/Core/Logger.cs:VEvil.Core.Logger.ERROR_COLOR","CSharpClass:VEvil.Core.Logger:ERROR_COLOR"]]]]);

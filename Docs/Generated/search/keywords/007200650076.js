@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("rev",["Function"],[["RevertTemporaryTarget",,[["VEvil.AI.AAIAgentEntity",,,,0,"File:Runtime/AI/AAIAgentEntity.cs:VEvil.AI.AAIAgentEntity.RevertTemporaryTarget","CSharpClass:VEvil.AI.AAIAgentEntity:RevertTemporaryTarget"]]]]);

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("iss",["Property"],[["IsSceneAssetValid",,[["VEvil.Core.SceneManagement.SceneReference",,,,0,"File:Runtime/Core/SceneManagement/SceneReference.cs:VEvil.Core.SceneManagement.SceneReference.IsSceneAssetValid","CSharpClass:VEvil.Core.SceneManagement.SceneReference:IsSceneAssetValid"]]]]);

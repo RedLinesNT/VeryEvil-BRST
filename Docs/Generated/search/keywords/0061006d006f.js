@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("amo",["Property"],[["Amount",,[["VEvil.GameLogic.Player.UnitLoadoutInfo",,,,0,"File:Runtime/GameLogic/Player/UserUnitLoadout.cs:VEvil.GameLogic.Player.UnitLoadoutInfo.Amount","CSharpClass:VEvil.GameLogic.Player.UnitLoadoutInfo:Amount"]]]]);

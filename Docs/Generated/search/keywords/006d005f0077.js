@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("m_w",["Variable"],[["m_Wrapper",,[["VEvil.Inputs.Generated.@GameplayInputProvider.GameCameraActions",,,,0,"File:Inputs/Generated/GameplayInputProvider.cs:VEvil.Inputs.Generated.@GameplayInputProvider.GameCameraActions.m_Wrapper","CSharpClass:VEvil.Inputs.Generated.@GameplayInputProvider.GameCameraActions:m_Wrapper"]]]]);

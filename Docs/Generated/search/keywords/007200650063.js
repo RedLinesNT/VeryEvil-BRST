@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("rec",["Property"],[["RecoverSpeed",,[["VEvil.GameLogic.Currencies.ManaContainerSettings",,,,0,"File:Runtime/GameLogic/Currencies/Mana/ManaContainerSettings.cs:VEvil.GameLogic.Currencies.ManaContainerSettings.RecoverSpeed","CSharpClass:VEvil.GameLogic.Currencies.ManaContainerSettings:RecoverSpeed"]]]]);

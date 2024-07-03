@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("ete",["Enumeration"],[["ETeamType",,[["VEvil.GameLogic.Teams",,,,0,"File:Runtime/GameLogic/Teams/Data/TeamType.cs:VEvil.GameLogic.Teams.ETeamType"]]]]);

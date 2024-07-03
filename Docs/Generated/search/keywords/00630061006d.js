@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("cam",["Property"],[["Camera",,[["VEvil.ICE.ICEBrainCamera",,,,0,"File:Runtime/ICE/ICEBrainCamera.cs:VEvil.ICE.ICEBrainCamera.Camera","CSharpClass:VEvil.ICE.ICEBrainCamera:Camera"]]]]);

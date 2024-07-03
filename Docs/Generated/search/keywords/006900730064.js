@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("isd",["Function"],[["IsDataValid",,[["VEvil.Core.SceneManagement.SceneSystem",,,,0,"File:Runtime/Core/SceneManagement/SceneSystem.cs:VEvil.Core.SceneManagement.SceneSystem.IsDataValid","CSharpClass:VEvil.Core.SceneManagement.SceneSystem:IsDataValid"]]]]);

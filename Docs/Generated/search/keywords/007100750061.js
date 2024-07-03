@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("qua",["Property"],[["Quality",,[["VEvil.AI.AIAgentSettings",,,,0,"File:Runtime/AI/AIAgentSettings.cs:VEvil.AI.AIAgentSettings.Quality","CSharpClass:VEvil.AI.AIAgentSettings:Quality"]]]]);

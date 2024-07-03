@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("afr",["Class"],[["AFrontEndModule",,[["VEvil.Core.FE",,,,0,"File:Runtime/Core/FrontEnd/AFrontEndModule.cs:VEvil.Core.FE.AFrontEndModule","CSharpClass:VEvil.Core.FE.AFrontEndModule"]]]]);

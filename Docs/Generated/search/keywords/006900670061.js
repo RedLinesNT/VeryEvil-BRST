@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("iga",["Interface"],[["IGameCameraActions",,[["VEvil.Inputs.Generated.@GameplayInputProvider",,,,0,"File:Inputs/Generated/GameplayInputProvider.cs:VEvil.Inputs.Generated.@GameplayInputProvider.IGameCameraActions","CSharpClass:VEvil.Inputs.Generated.@GameplayInputProvider.IGameCameraActions"]]]]);

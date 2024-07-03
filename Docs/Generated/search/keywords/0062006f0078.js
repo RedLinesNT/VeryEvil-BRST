@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("box",["Variable"],[["boxPadding",,[["VEvil.Core.Editor.Properties.SceneReferencePropertyDrawer",,,,0,"File:Runtime/Core/Editor/Property_Drawers/SceneReferencePropertyDrawer.cs:VEvil.Core.Editor.Properties.SceneReferencePropertyDrawer.boxPadding","CSharpClass:VEvil.Core.Editor.Properties.SceneReferencePropertyDrawer:boxPadding"]]]]);

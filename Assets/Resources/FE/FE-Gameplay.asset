@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7026fa6c31904cf68360dffcf0c94521, type: 3}
+  m_Name: FE-Gameplay
+  m_EditorClassIdentifier: 
+  bankInternalName: FrontEnd-Gameplay
+  modules:
+  - modulePrefab: {fileID: 7733817139409146074, guid: fca7bb5749acf28489f4c727c4dbce7c, type: 3}
+    identifier: Game-HUD
+    createOnSceneCategoryLoaded: 0
+  - modulePrefab: {fileID: 7733817139409146074, guid: 1cf1e3830e9832e4690e09b967ef6ed2, type: 3}
+    identifier: Game-End
+    createOnSceneCategoryLoaded: 0

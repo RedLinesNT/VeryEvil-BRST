@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("ais",["Property"],[["AISettings",,[["VEvil.GameLogic.Units.UnitSettings",,,,0,"File:Runtime/GameLogic/Units/UnitSettings.cs:VEvil.GameLogic.Units.UnitSettings.AISettings","CSharpClass:VEvil.GameLogic.Units.UnitSettings:AISettings"]]]]);

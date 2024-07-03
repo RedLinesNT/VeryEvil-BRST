@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("des",["Function"],[["Destroy",,[["VEvil.Core.FE.FrontEnd",,,,0,"File:Runtime/Core/FrontEnd/FrontEnd.cs:VEvil.Core.FE.FrontEnd.Destroy","CSharpClass:VEvil.Core.FE.FrontEnd:Destroy"]]]]);

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("cor",["Class"],[["CoreUtils",,[["VEvil.Core",,,,0,"File:Runtime/Core/CoreUtils.cs:VEvil.Core.CoreUtils","CSharpClass:VEvil.Core.CoreUtils"]]]]);

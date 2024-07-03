@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("isc",["Property"],[["IsContainerEnabled",,[["VEvil.AI.AIPathPointsConstraints",,,,0,"File:Runtime/AI/Paths/AIPathPointsConstraints.cs:VEvil.AI.AIPathPointsConstraints.IsContainerEnabled","CSharpClass:VEvil.AI.AIPathPointsConstraints:IsContainerEnabled"]]]]);

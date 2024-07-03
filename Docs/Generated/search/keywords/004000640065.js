@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("@de",["Property"],[["@DetachTarget",,[["VEvil.Inputs.Generated.@GameplayInputProvider.GameCameraActions",,,,0,"File:Inputs/Generated/GameplayInputProvider.cs:VEvil.Inputs.Generated.@GameplayInputProvider.GameCameraActions.@DetachTarget","CSharpClass:VEvil.Inputs.Generated.@GameplayInputProvider.GameCameraActions:@DetachTarget"]]]]);

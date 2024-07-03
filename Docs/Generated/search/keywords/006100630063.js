@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("acc",["Property"],[["Acceleration",,[["VEvil.AI.AIAgentSettings",,,,0,"File:Runtime/AI/AIAgentSettings.cs:VEvil.AI.AIAgentSettings.Acceleration","CSharpClass:VEvil.AI.AIAgentSettings:Acceleration"]]]]);

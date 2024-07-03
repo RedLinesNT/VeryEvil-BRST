@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("see",["Property"],[["SeeRange",,[["VEvil.GameLogic.Attack.AttackSettings",,,,0,"File:Runtime/GameLogic/Attack/AttackSettings.cs:VEvil.GameLogic.Attack.AttackSettings.SeeRange","CSharpClass:VEvil.GameLogic.Attack.AttackSettings:SeeRange"]]]]);

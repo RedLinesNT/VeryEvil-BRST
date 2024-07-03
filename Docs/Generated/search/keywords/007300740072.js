@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("str",["Operator"],[["string",,[["VEvil.Core.SceneManagement.SceneReference","operator string",,,0,"File:Runtime/Core/SceneManagement/SceneReference.cs:VEvil.Core.SceneManagement.SceneReference.operator_string","CSharpClass:VEvil.Core.SceneManagement.SceneReference:operator_string"]]]]);

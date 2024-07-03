@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("par",["Variable"],[["parentUnit",,[["VEvil.GameLogic.Units.UnitAttackModule",,,,0,"File:Runtime/GameLogic/Units/UnitAttackModule.cs:VEvil.GameLogic.Units.UnitAttackModule.parentUnit","CSharpClass:VEvil.GameLogic.Units.UnitAttackModule:parentUnit"]]]]);

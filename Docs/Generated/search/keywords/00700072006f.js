@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("pro",["Function"],[["ProvideMana",,[["VEvil.GameLogic.Currencies.ManaContainer",,,,0,"File:Runtime/GameLogic/Currencies/Mana/ManaContainer.cs:VEvil.GameLogic.Currencies.ManaContainer.ProvideMana","CSharpClass:VEvil.GameLogic.Currencies.ManaContainer:ProvideMana"]]]]);

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("foo",["Constant"],[["FOOTER_HEIGHT",,[["VEvil.Core.Editor.Properties.SceneReferencePropertyDrawer",,,,0,"File:Runtime/Core/Editor/Property_Drawers/SceneReferencePropertyDrawer.cs:VEvil.Core.Editor.Properties.SceneReferencePropertyDrawer.FOOTER_HEIGHT","CSharpClass:VEvil.Core.Editor.Properties.SceneReferencePropertyDrawer:FOOTER_HEIGHT"]]]]);

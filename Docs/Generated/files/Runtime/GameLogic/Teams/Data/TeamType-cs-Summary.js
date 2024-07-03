@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:Runtime/GameLogic/Teams/Data/TeamType.cs","TeamType.cs");NDSummary.OnSummaryLoaded("File:Runtime/GameLogic/Teams/Data/TeamType.cs",[["C#","CSharp"]],[["Enums","Enumeration"],["Groups","Group"]],[[586,0,1,"Types","VEvil.GameLogic.Teams.Types"],[587,0,0,"ETeamType","VEvil.GameLogic.Teams.ETeamType"]]);

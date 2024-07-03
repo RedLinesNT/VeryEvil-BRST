@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("war",["Constant"],[["WARNING_COLOR",,[["VEvil.Core.Logger",,,,0,"File:Runtime/Core/Logger.cs:VEvil.Core.Logger.WARNING_COLOR","CSharpClass:VEvil.Core.Logger:WARNING_COLOR"]]]]);

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("isp",["Variable"],[["isPackagedText",,[["VEvil.FE.Debug.DebugLevelPicker",,,,0,"File:Runtime/FrontEnd/Debug/DebugLevelPicker.cs:VEvil.FE.Debug.DebugLevelPicker.isPackagedText","CSharpClass:VEvil.FE.Debug.DebugLevelPicker:isPackagedText"]]]]);

@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("CSharpClass:VEvil.GameLogic.Units.DummyUnit","DummyUnit");NDSummary.OnSummaryLoaded("CSharpClass:VEvil.GameLogic.Units.DummyUnit",[["C#","CSharp"]],[["Classes","Class"]],[[687,0,0,"<span class=\"Qualifier\">VEvil.&#8203;GameLogic.&#8203;Units.</span>&#8203;DummyUnit"]]);

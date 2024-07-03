@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("cle",["Function"],[["ClearLoadout",,[["VEvil.FE.Gameplay.HUD.HeadsUpDisplay",,,,0,"File:Runtime/FrontEnd/Gameplay/HUD/HeadsUpDisplay.cs:VEvil.FE.Gameplay.HUD.HeadsUpDisplay.ClearLoadout","CSharpClass:VEvil.FE.Gameplay.HUD.HeadsUpDisplay:ClearLoadout"]]]]);

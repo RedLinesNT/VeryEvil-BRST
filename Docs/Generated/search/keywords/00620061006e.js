@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("ban",["Variable"],[["bankInternalName",,[["VEvil.Core.FE.FrontEndModuleDefinitionBank",,,,0,"File:Runtime/Core/FrontEnd/Data/FrontEndModuleDefinitionBank.cs:VEvil.Core.FE.FrontEndModuleDefinitionBank.bankInternalName","CSharpClass:VEvil.Core.FE.FrontEndModuleDefinitionBank:bankInternalName"]]]]);

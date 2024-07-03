@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("CSharpClass:VEvil.GameLogic.Buildings.NexusHealth","NexusHealth");NDSummary.OnSummaryLoaded("CSharpClass:VEvil.GameLogic.Buildings.NexusHealth",[["C#","CSharp"]],[["Classes","Class"]],[[387,0,0,"<span class=\"Qualifier\">VEvil.&#8203;GameLogic.&#8203;Buildings.</span>&#8203;NexusHealth"]]);

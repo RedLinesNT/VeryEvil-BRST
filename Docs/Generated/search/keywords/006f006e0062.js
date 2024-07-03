@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("onb",["Function"],[["OnBeforeSerialize",,[["VEvil.Core.SceneManagement.SceneReference",,,,0,"File:Runtime/Core/SceneManagement/SceneReference.cs:VEvil.Core.SceneManagement.SceneReference.OnBeforeSerialize","CSharpClass:VEvil.Core.SceneManagement.SceneReference:OnBeforeSerialize"]]]]);

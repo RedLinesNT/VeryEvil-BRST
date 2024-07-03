@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("ico",["Property"],[["Icon",,[["VEvil.GameLogic.Units.UnitDefinition",,,,0,"File:Runtime/GameLogic/Units/UnitDefinition.cs:VEvil.GameLogic.Units.UnitDefinition.Icon","CSharpClass:VEvil.GameLogic.Units.UnitDefinition:Icon"]]]]);

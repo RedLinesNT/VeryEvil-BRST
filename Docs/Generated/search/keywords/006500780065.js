@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("exe",["Function"],[["ExecuteCameraSmoothing",,[["VEvil.GameLogic.Cameras.Gameplay.GameCamera",,,,0,"File:Runtime/GameLogic/Cameras/Gameplay/GameCamera.cs:VEvil.GameLogic.Cameras.Gameplay.GameCamera.ExecuteCameraSmoothing","CSharpClass:VEvil.GameLogic.Cameras.Gameplay.GameCamera:ExecuteCameraSmoothing"]]]]);

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("apo",["Class"],[["APointerClickableEntity",,[["VEvil.GameLogic.Interactable",,,,0,"File:Runtime/GameLogic/Interactable/APointerClickableEntity.cs:VEvil.GameLogic.Interactable.APointerClickableEntity","CSharpClass:VEvil.GameLogic.Interactable.APointerClickableEntity"]]]]);

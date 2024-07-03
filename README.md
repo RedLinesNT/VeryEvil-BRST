@@ -1,52 +1,70 @@
-# Very Evil
+<div align="center"> <img src="https://github.com/RedLinesNT/VeryEvil-BRST/blob/main/Visual/VeryEvil_Wide.png"> </div>
 
-Branche spécifique pour @RedLinesNT, destinée au developpement du nouveau (et final) prototype de Very Evil.
-Veuillez ne pas push ou utiliser cette branche sauf si @RedLinesNT vous l'a demandé, merci.
+"Very Evil" is a "Clash Royale"-like game for PC, but it's also my graduation project from my studies at Brassart Lyon.<br/>
+I worked like a maniac on it from mid-February to mid-April 2024, all of that from scratch.<br/>
+
+My aim was mainly to produce the foundation of the game like "Core Gameplay Elements" but also In-Engine tools, so that later the Level/Game Designers and Artists could integrate and create content into the engine for the game without having to rely on me.<br/>
+
+This version dates from mid-April 2024 (18-04-2024), so contains little of the final version delivered on June 28 2024.<br/>
+Every graphical "assets" that can be seen here are made by me in "Adobe XD" and are only as PLACEHOLDERS to give a better visualization of what's going on to the people who would later work into the engine for various reasons.
+
+Even if none of their work is on this version of the repo, here are the members of this project:<br/>
+<!--ts-->
+   * [Kélian AUFFRET (Game Designer - God of Powerpoint)](https://www.linkedin.com/in/kelian-auffret-4a087622b/)
+   * [Antoine Jullien (Level Designer - Forced to use my tools)](https://www.linkedin.com/in/antoine-jullien-26312a226/)
+   * [Lucas CERQUEIRA (Producer - Our Swiss knife)](https://www.linkedin.com/in/lucas-cerqueira-94b3b9265/)
+   * [Eliot ROZENBAUM (2nd Programmer - Forced to use my code)](https://www.linkedin.com/in/eliot-rozenbaum/)
+   * [Léo GRIFFOULIERE (Programmer - Typing 0s and 1s like I was Neo in The Matrix)](https://www.linkedin.com/in/l%C3%A9o-griffouli%C3%A8re/)
+<!--te-->
+Same thing, but here's our beloved Game Artists:<br/>
+<!--ts-->
+   * [Coline SEGURAN](https://www.linkedin.com/in/coline-seguran-3d/)
+   * [Melvin BORNE](https://www.linkedin.com/in/melvin-borne-9b6313259/)
+   * [Mathilde CANNARD](https://www.linkedin.com/in/mathilde-cannard/)
+   * [Maële DI NATALI](https://www.linkedin.com/in/ma%C3%ABle-di-natali/)
+   * [Alan BENZADA](https://www.linkedin.com/in/alan-benzada-4100a4166/)
+<!--te-->
 
 <hr>
 
-## Table des matières
+## Summary
 
 <!--ts-->
-   * [Programmes requis](#programmes-requis)
-   * [Packages du projet](#packages-du-projet)
-   * [Norme de programmation](#norme-de-programmation)
-   * [Signaler un problème](#signler-un-problème)
+   * [Required programs](#required-programs)
+   * [Project packages](#project-packages)
+   * [Programming standards](#programming-standards)
    * [Documentation](#documentation)
 <!--te-->
 
 <hr>
 
-## Programmes requis
-  - GitHub Desktop
+## Required programs
   - Unity Hub
   - Unity Engine (2022.3.9f1 - LTS)
 
-Les programmeurs auront besoin d'avoir un "IDE" de leur choix. L'un de ces deux IDE sont recommandés :
+Programmers will need an IDE of their choice, these twos are recommended :
   - Visual Studio Community 2019/2022
   - JetBrains Rider 2023
 
-<i>Il est fortement recommandé d'avoir Visual Studio Community d'installé peu importe l'IDE pour faire une version déployable du projet.</i>
-
-### Vous ne possedez pas la version d'Unity mentionné au dessus ?
-  Pour installer la version du moteur demandée avec Unity Hub, rendez-vous sur [cette page d'Unity](https://unity.com/releases/editor/whats-new/2022.3.9).<br>
-  En haut de cette page, cliquez sur "<i>Install this version with Unity Hub</i>".
+### Missing the Unity version mentionned above ?
+  To install the engine version required with Unity Hub, go to [this page from Unity](https://unity.com/releases/editor/whats-new/2022.3.9).<br>
+  And at the top of this page, click on "<i>Install this version with Unity Hub</i>", then Unity Hub will deal with the rest.
 
 <hr>
 
-## Modules du moteur
-  Pour être en mesure de faire des builds du projet, certains modules du moteur sont nécessaire.<br>
-  <i>Notez que ces modules sont optionnels pour les membres ne cherchant pas à faire des versions deployable du projet.</i><br>
-  Pour ajouter des modules à une version d'Unity déjà installée, rendez-vous dans Unity Hub, puis dans "<i><strong>Install</strong></i>" > "<i><strong>2022.3.9f1</strong></i>" > "<i><strong>Add Modules</strong></i>". Et sélectionnez les modules suivant : 
+## Engine modules
+  To be able to build the project, certain modules are required.<br>
+  <i>Note that these modules are optional for members who do not wish to make deployable versions of the project.</i><br>
+  To add modules to an already installed version of Unity, go to Unity Hub, then to "<i><strong>Install</strong></i>" > "<i><strong>2022.3.9f1</strong></i>" > "<i><strong>Add Modules</strong></i>". And select the following modules : 
   - Linux Build Support (IL2CPP) - (217 MB)
   - Mac Build Support (Mono) - (1.87 GB)
   - Windows Build Support (IL2CPP) - (418 MB)
 
 <hr>
 
-## Packages du projet
+## Project packages
 
-Voici la liste des packages installés sur ce projet :
+Here's the list of packages currently installed :
  - AI Navigation (1.1.5)
  - Burst (1.8.8)
  - Cinemachine (2.9.7)
@@ -71,13 +89,13 @@ Voici la liste des packages installés sur ce projet :
 
 <hr>
 
-## Norme de programmation
+## Programming standards
 
   Class :
     ```
     CamelCase
     ```<br>
-  Attributs :
+  Attributes :
     ```
     camelCase
     ```<br>
@@ -85,7 +103,7 @@ Voici la liste des packages installés sur ce projet :
     ```
     _camelCase
     ```<br>
-  Methodes :
+  Methods :
     ```
     CamelCase()
     ```<br>
@@ -93,38 +111,21 @@ Voici la liste des packages installés sur ce projet :
     ```
     ENameOfEnum
     ```<br>
-  Valeur d'un Enum :
+  Enum's Values :
     ```
     VALUE
     ```<br><br>
-L'entièreté des attributs doivent être en private. Utilisez à la place des <i>Properties</i> ou des <i>Getters/Setters</i>.<br>
-<strong>Tous les noms doivent être de préférence en anglais!</strong>
+All attributes must be private, use Properties or Getters/Setters instead.<br/>
+Every names/comments MUST be in English, no matter how broken yours is.
 
-### Commentaires
-  Afin que votre code puisse être comprit par le reste de l'équipe, il est important de commenter votre code.<br>
-  Commentez votre code avec des "<i>//</i>" pour les attributs et les variables et des passages de code si nécessaire!<br>
-  Commentez vos "<i>methods</i>" avec des ```<summary>```.
-
-<hr>
-
-## Signaler un problème
-  C'est super simple!<br>
-  Rendez-vous dans la categorie "<i>Issues</i>" de Github (sur la page web), puis crèez une nouvelle issue.<br>
-  Regardez l'issue "Exemple" pour en créer une nouvelle.
-  
 <hr>
 
 ## Documentation
-  Vous trouverez ici des liens vers de la documentation pour par exemple:
-	- Intégrer du contenu comme des textures/modèles dans le projet
-	- Utilisation de certains outils d’Unity ainsi que ceux conçus pour ce projet.
-	- Documentation du code
-
-  Documents utiles :<br>
+  Useful docs :<br>
 <!--ts-->
-   * <a href="Docs/Precompiled/Art/ExSubstance_imUnity-URP.pdf">Exporter ses textures de Substance / En importer sur Unity (URP)</a>
-   * <a href="Docs/Precompiled/Art/Skybox-Engine-Usage.pdf">Création et utilisation des Skybox procédurales</a>
-   * <a href="Docs/Precompiled/Level-Arch.pdf">Architecture des Scenes au sein du moteur</a>
+   * <a href="Docs/Precompiled/Art/ExSubstance_imUnity-URP.pdf">Export your textures from Substance to Unity.</a>
+   * <a href="Docs/Precompiled/Art/Skybox-Engine-Usage.pdf">Creation and usage of Procedural Skyboxes</a>
+   * <a href="Docs/Precompiled/Level-Arch.pdf">Scene's architecture inside the engine.</a>
 <!--te-->
   
 <hr>

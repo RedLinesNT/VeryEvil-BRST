@@ -23,6 +23,7 @@ Same thing, but here's our beloved Game Artists:<br/>
    * [Mathilde CANNARD](https://www.linkedin.com/in/mathilde-cannard/)
    * [Maële DI NATALI](https://www.linkedin.com/in/ma%C3%ABle-di-natali/)
    * [Alan BENZADA](https://www.linkedin.com/in/alan-benzada-4100a4166/)
+   * [Eva MOREAU](https://www.linkedin.com/in/eva-moreau-641799296)
 <!--te-->
 
 <hr>
